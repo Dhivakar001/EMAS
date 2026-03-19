@@ -11,10 +11,11 @@
     ·
     <a href="https://github.com/Dhivakar001/EMAS/issues">Request Feature</a>
   </p>
-</div>
+
 <video width="320" height="240" controls>
   <source src="demo.mp4" type="video/mp4">
 </video>
+</div>
 <details>
   <summary><h2>Table of Contents</h2></summary>
   <ol>
