@@ -11,10 +11,6 @@
     ·
     <a href="https://github.com/Dhivakar001/EMAS/issues">Request Feature</a>
   </p>
-
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
 </div>
 <details>
   <summary><h2>Table of Contents</h2></summary>
@@ -158,7 +154,7 @@ Use the following login information to navigate the system:
 [Javascript.com]: https://img.shields.io/badge/Javascript-EDD84B?style=for-the-badge&logo=Javascript&logoColor=white
 [HTML.com]: https://img.shields.io/badge/HTML-E34B24?style=for-the-badge&logo=HTML&logoColor=white
 [CSS.com]: https://img.shields.io/badge/CSS-1370B5?style=for-the-badge&logo=css&logoColor=white
-[project-screenshot]: pages/images/installation-guide/demo.gif
+[project-screenshot]: demo.gif
 
 
 
